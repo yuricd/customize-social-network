@@ -1,0 +1,16 @@
+{
+  "name": "Customize Social Network",
+  "description": "Change colors and font style on social networks' pages.",
+  "author": "Yuri Delgado",
+  "version": "1.0",
+  "manifest_version": 2,
+ 
+ "browser_action": {
+    "default_icon": "icon.png",
+    "default_title": "Have a good day",
+    "default_popup": "popup.html"
+  },
+ 
+ 
+  "permissions": ["http://*/*", "https://*/*"]
+ }

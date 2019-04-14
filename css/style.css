@@ -1,0 +1,36 @@
+* {margin: 0; padding: 0; border: none; outline: 0;}
+
+.root {
+  padding: 10px;
+  width: 200px;
+  background: #EEE;
+}
+
+h1 {
+  font-size: .8rem;
+  margin-bottom: 10px;
+  font-weight: bolder;
+  text-transform: uppercase;
+}
+
+form select {
+  border: 1px solid #CCC;
+  background: #FFF;
+  padding: 5px;
+}
+
+form .row {
+  margin-bottom: 5px;
+}
+
+form .row.bottom {
+  text-align: right;
+  margin-bottom: 0;
+}
+
+form .row.bottom button {
+  background: #222;
+  color: #FFF;
+  padding: 10px;
+  cursor: pointer;
+}
