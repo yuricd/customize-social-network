@@ -2,6 +2,9 @@
 
 A Chrome extension to add themes to social networks.
 
+![Custom example](custom-fb-extension.png)
+
+
 ### Facebook
 Select a theme in order to change search bar and background colors.
 
